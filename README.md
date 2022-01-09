@@ -1,5 +1,5 @@
 # harry-plotter
-Files for the Harry Plotter YouTube Mini Series
+Files for the [Harry Plotter YouTube Mini Series](https://www.youtube.com/playlist?list=PLqnAQ6LLQNRHT1yC85xLkzkPSmB3YpURq)
 
 ### Episode 1: Harry Plotter and the Vanishing Houses
 **Topics covered**: Percent Stacked Bar Charts
